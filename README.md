@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zahrahdri
-- I have a bachelor's degree in computer engineering and now I am a master's student in artificial intelligence and robotics.
+- 🌟I have a bachelor's degree in computer engineering and now I am a master's student in artificial intelligence and robotics.
 - 👀 I’m interested in machine learning, deep learning and backend developement
 
 <!---
